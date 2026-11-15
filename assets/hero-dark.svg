@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="410" viewBox="0 0 1200 410" role="img" aria-labelledby="title desc">
+<title id="title">Jahanzeb Akhund — Data Solution Architect</title>
+<desc id="desc">Turning raw data into reliable systems. Data engineering, cloud platforms, and applied machine learning. A visual pipeline connects events, processing, and insight.</desc>
+<defs><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#20353b" stroke-width="1"/></pattern></defs>
+<rect x="1" y="1" width="1198" height="408" rx="24" fill="#101c23" stroke="#31474a"/>
+<rect x="712" y="24" width="464" height="362" rx="18" fill="url(#grid)"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<circle cx="48" cy="47" r="5" fill="#b6e8cb"/>
+<text x="64" y="52" font-size="12" letter-spacing="2.4" fill="#b6e8cb">DATA / CLOUD / INTELLIGENCE</text>
+<text x="42" y="112" font-size="35" font-weight="700" fill="#f2f5eb">Jahanzeb Akhund</text>
+<text x="42" y="148" font-size="17" fill="#a3b8b6">Data Solution Architect · Data Engineer · Applied ML</text>
+<text x="40" y="224" font-family="Georgia, 'Times New Roman', serif" font-size="53" fill="#f2f5eb">Turning raw data</text>
+<text x="40" y="281" font-family="Georgia, 'Times New Roman', serif" font-size="53" fill="#f2f5eb">into reliable systems.</text>
+<path d="M42 320H651" stroke="#31474a"/>
+<text x="42" y="356" font-size="12" letter-spacing="1.7" fill="#a3b8b6">RICHMOND, TEXAS</text>
+<text x="250" y="356" font-size="12" letter-spacing="1.7" fill="#b6e8cb">OPEN TO OPPORTUNITIES</text>
+<text x="767" y="66" font-size="11" letter-spacing="2" fill="#a3b8b6">THE SYSTEMS I BUILD</text>
+<path d="M862 134V168H1018V205M1018 265V299H862V327" fill="none" stroke="#b6e8cb" stroke-width="2"/>
+<circle cx="862" cy="168" r="4" fill="#b6e8cb"/><circle cx="1018" cy="299" r="4" fill="#b6e8cb"/>
+<rect x="755" y="86" width="290" height="62" rx="12" fill="#162a30" stroke="#31474a"/>
+<circle cx="781" cy="117" r="5" fill="#dcab83"/>
+<text x="800" y="112" font-size="11" letter-spacing="1.5" fill="#a3b8b6">01 / INGEST</text>
+<text x="800" y="133" font-size="16" font-weight="700" fill="#f2f5eb">Events &amp; source systems</text>
+<rect x="852" y="202" width="290" height="62" rx="12" fill="#162a30" stroke="#31474a"/>
+<circle cx="878" cy="233" r="5" fill="#b6e8cb"/>
+<text x="897" y="228" font-size="11" letter-spacing="1.5" fill="#a3b8b6">02 / ENGINEER</text>
+<text x="897" y="249" font-size="16" font-weight="700" fill="#f2f5eb">Pipelines &amp; lakehouses</text>
+<rect x="755" y="323" width="290" height="48" rx="12" fill="#162a30" stroke="#31474a"/>
+<circle cx="781" cy="347" r="5" fill="#dcab83"/>
+<text x="800" y="353" font-size="15" font-weight="700" fill="#f2f5eb">Analytics → decisions</text>
+</g></svg>
